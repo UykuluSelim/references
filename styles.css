@@ -1,0 +1,6 @@
+.emulogo img {
+    align-content: flex-start;
+    width: 75px;
+    height: 75px;
+    box-shadow: black, 12px; 
+}
